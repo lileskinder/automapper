@@ -3,6 +3,11 @@
 
 **AutoMapper** is a lightweight and easy-to-use object-to-object mapping library for Java. It dynamically maps fields between objects using reflection, supporting both standard Java classes and records.
 
+## Prerequisites
+
+- **Java 17** or later: AutoMapper uses features introduced in Java 17 (e.g., records).
+- A build tool like Maven or Gradle (for adding the dependency and building your project).
+
 ## Features
 
 - **Automatic Mapping**: Automatically maps fields between objects with matching names.
